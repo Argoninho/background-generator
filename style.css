@@ -1,0 +1,6 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 0.5em;
+    background: linear-gradient(to left,rgb(238, 78, 30),rgb(238, 165, 30));
+}
